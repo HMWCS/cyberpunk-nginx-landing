@@ -18,8 +18,7 @@ A responsive cyberpunk-style landing page that replaces the default NGINX welcom
 ## Installation
 
 1. Copy all three files to your NGINX web directory (usually `/var/www/html/`)
-2. Restart NGINX
-3. Done!
+2. Done!
 
 ## Preview
 
