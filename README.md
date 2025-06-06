@@ -22,4 +22,6 @@ A responsive cyberpunk-style landing page that replaces the default NGINX welcom
 
 ## Preview
 
+🚀 **[Live Demo](https://hmwcs.github.io/cyberpunk-nginx-landing/)**
+
 Features glitch effects, animated grid background, scan lines, and automatic domain detection that works across all screen sizes.
